@@ -1,2 +1,2 @@
-# Data-Analyst-or-Data-Scientist-Portofolio
-Repository for CV/LinkedIn Portofolio. This repository will include main portofolio (Python and SQL) and supporting portofolio (Excel and Power BI, etc)
+#Learning Branch
+This branch is consist of my learning project portfolio from various YouTube course and datasets. The purpose of this branch is to share my learning progress (mainly SQL and Excel). 
