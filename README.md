@@ -7,7 +7,7 @@ The purpose of this repository is to share my portfolio for applying work (CV/Re
 ### Check the other branch to see my portfolio
 
 ## Disclaimer
-This project uses Luke Barousse [Datanerd]([datanerd.tech](https://datanerd.tech/)) datasets. This project analysis approach was inspired by Luke Barousse's YouTube course.
+This project uses Luke Barousse [Datanerd](https://datanerd.tech/) datasets. This project analysis approach was inspired by Luke Barousse's YouTube course.
 
 ## Thanks for Coming
 
