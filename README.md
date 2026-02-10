@@ -16,6 +16,8 @@ This project uses Luke Barousse [Datanerd](https://datanerd.tech/) datasets. Thi
 ## Tools
 - SQL
 - PostgreSQL
+- Google Colab
+- Python
 - VS Code
 - Git and GitHub
 
